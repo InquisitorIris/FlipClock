@@ -8,7 +8,7 @@ body {
 }
 
 :root {
-  --flip-height: 300px;
+  --flip-height: 150px;
   --flip-width: calc(var(--flip-height) * 0.6);
   --line-height: calc(var(--flip-height) * 0.5);
   --flip-container-color: #353135;
