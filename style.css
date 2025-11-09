@@ -28,6 +28,17 @@ body {
   background: #1d1d1d;
 }
 
+.flip-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.flip-clock {
+  transform: scale(3); /* 🔥 3x larger */
+  transform-origin: center;
+}
+
 .flip {
   height: var(--flip-height);
   width: var(--flip-width);
