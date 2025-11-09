@@ -14,7 +14,7 @@ body {
   --line-height: calc(var(--flip-height) * 0.5);
   --flip-container-color: #353135;
   --flip-color: #353531;
-  --flip-text-color: #efefef;
+  --flip-text-color: #ff884d;
   --flip-border-radius: calc(var(--flip-height) * 0.05);
   --animation-time: 0.8s;
   --animation-ease: linear;
